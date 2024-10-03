@@ -10,7 +10,8 @@ A photography portfolio for a local artist.
 Link to project: https://rvstudiophotography.netlify.app/
 
 
-<img width="1404" alt="rv-studio-photography-preview" src="https://github.com/user-attachments/assets/47213c4a-b59b-46cb-a43f-09a30f1db8b5">
+<img width="389" alt="rvsp" src="https://github.com/user-attachments/assets/55d2b3f9-7691-475b-bcd6-1fe10eb82ef5">
+
 
 
 
